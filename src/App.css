@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    height: fit-content;
+    background-color: hsl(228, 33%, 97%);
+}
+#btn{
+    background-color: hsl(238, 40%, 52%);
+}
